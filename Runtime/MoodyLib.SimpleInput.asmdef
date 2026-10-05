@@ -1,0 +1,6 @@
+{
+	"name": "MoodyLib.SimpleInput",
+	"references": [
+		"Unity.InputSystem"
+	]
+}
